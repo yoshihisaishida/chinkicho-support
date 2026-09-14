@@ -1,91 +1,103 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "yoshihisaishida/chinkicho",
-  "sourceCommit": "422e4d3",
+  "sourceCommit": "e82c9966dea08227c96140bc7876f5ed3c1fe808",
   "documents": [
     {
       "document": "terms",
       "locale": "ja",
       "sourcePath": "docs/terms-chinkicho-ja-v1.md",
       "sourceSha256": "390ca3b619b3a28f984233cc48d0661183bb6546b4bc26bffc146aa0c90936f8",
-      "publicPath": "/terms/"
+      "publicPath": "/terms/",
+      "sourceCommit": "422e4d3"
     },
     {
       "document": "terms",
       "locale": "en",
       "sourcePath": "docs/terms-chinkicho-en-v1.md",
       "sourceSha256": "d2483e37c4a9214a10ad25b1f1623e0430ec2b087c4f07306cbe5389a1a659dd",
-      "publicPath": "/terms/en/"
+      "publicPath": "/terms/en/",
+      "sourceCommit": "422e4d3"
     },
     {
       "document": "terms",
       "locale": "zh-Hans",
       "sourcePath": "docs/terms-chinkicho-zh-hans-v1.md",
       "sourceSha256": "154fb471ccdc28debddb4dc94eb94cf0812f98430e36f632749f15199109accc",
-      "publicPath": "/terms/zh-hans/"
+      "publicPath": "/terms/zh-hans/",
+      "sourceCommit": "422e4d3"
     },
     {
       "document": "terms",
       "locale": "zh-Hant",
       "sourcePath": "docs/terms-chinkicho-zh-hant-v1.md",
       "sourceSha256": "688f95e3409153b3af413acbe368dd0a4b8554a84b10d56589fb0d7bca9cc3bb",
-      "publicPath": "/terms/zh-hant/"
+      "publicPath": "/terms/zh-hant/",
+      "sourceCommit": "422e4d3"
     },
     {
       "document": "privacy",
       "locale": "ja",
-      "sourcePath": "docs/privacy-chinkicho-ja-v1.md",
-      "sourceSha256": "704c07b50a5966ca9f90fabecbf9536ac827b526f700ee8742e8d0fa8815d623",
-      "publicPath": "/privacy/"
+      "sourcePath": "docs/privacy-chinkicho-ja-v2.md",
+      "sourceSha256": "190367771400e0b20f5015b460ada0e1a76f8b5e181bbf4895ec4fa5d54f4710",
+      "publicPath": "/privacy/",
+      "sourceCommit": "e82c9966dea08227c96140bc7876f5ed3c1fe808"
     },
     {
       "document": "privacy",
       "locale": "en",
-      "sourcePath": "docs/privacy-chinkicho-en-v1.md",
-      "sourceSha256": "7e8f740138129797c97ed8b31c1c75f775b84c9ae9f47a5ae5bd4bbbe450d701",
-      "publicPath": "/privacy/en/"
+      "sourcePath": "docs/privacy-chinkicho-en-v2.md",
+      "sourceSha256": "26715a68512c08dcd87d5477ebea8cda850d4346bda2b43fd2a63d6fa2640208",
+      "publicPath": "/privacy/en/",
+      "sourceCommit": "e82c9966dea08227c96140bc7876f5ed3c1fe808"
     },
     {
       "document": "privacy",
       "locale": "zh-Hans",
-      "sourcePath": "docs/privacy-chinkicho-zh-hans-v1.md",
-      "sourceSha256": "aa6da5dc6909b2a11b21bf8ecd06e2a265b36e0f844c8973424f394716e2561b",
-      "publicPath": "/privacy/zh-hans/"
+      "sourcePath": "docs/privacy-chinkicho-zh-hans-v2.md",
+      "sourceSha256": "0cdcea6c56db429a1697f362414bb92391252fb9b51949ad231e6ec8dc10eca3",
+      "publicPath": "/privacy/zh-hans/",
+      "sourceCommit": "e82c9966dea08227c96140bc7876f5ed3c1fe808"
     },
     {
       "document": "privacy",
       "locale": "zh-Hant",
-      "sourcePath": "docs/privacy-chinkicho-zh-hant-v1.md",
-      "sourceSha256": "0f3ed71aa98825e569287fb43aa417766998c7dba1816e8cc6fb3a5d9ff91fec",
-      "publicPath": "/privacy/zh-hant/"
+      "sourcePath": "docs/privacy-chinkicho-zh-hant-v2.md",
+      "sourceSha256": "636038665681336b460417b264e670d12476efae95ea8f81c8b441c0f4698ab8",
+      "publicPath": "/privacy/zh-hant/",
+      "sourceCommit": "e82c9966dea08227c96140bc7876f5ed3c1fe808"
     },
     {
       "document": "community-guidelines",
       "locale": "ja",
       "sourcePath": "docs/community-guidelines-chinkicho-ja-v1.md",
       "sourceSha256": "25fe03c0d8053ce4744f01594d4a04bd4dfba1a9bcbc44f8a6fa18aea9f8d10b",
-      "publicPath": "/community-guidelines/"
+      "publicPath": "/community-guidelines/",
+      "sourceCommit": "422e4d3"
     },
     {
       "document": "community-guidelines",
       "locale": "en",
       "sourcePath": "docs/community-guidelines-chinkicho-en-v1.md",
       "sourceSha256": "2dcf60ca3b584f8e229b31219921192c26eacb5c33ce4ecede65dc7513237eb7",
-      "publicPath": "/community-guidelines/en/"
+      "publicPath": "/community-guidelines/en/",
+      "sourceCommit": "422e4d3"
     },
     {
       "document": "community-guidelines",
       "locale": "zh-Hans",
       "sourcePath": "docs/community-guidelines-chinkicho-zh-hans-v1.md",
       "sourceSha256": "8ab7edf1957f5a6c60eea64e96b8cd2f95e370771a54be5e719191e329fc9fe0",
-      "publicPath": "/community-guidelines/zh-hans/"
+      "publicPath": "/community-guidelines/zh-hans/",
+      "sourceCommit": "422e4d3"
     },
     {
       "document": "community-guidelines",
       "locale": "zh-Hant",
       "sourcePath": "docs/community-guidelines-chinkicho-zh-hant-v1.md",
       "sourceSha256": "38df22e52c0de5d70f0e97a4a0f9d2ebbf2d7aebfb9bca29b83d17aafb8d141e",
-      "publicPath": "/community-guidelines/zh-hant/"
+      "publicPath": "/community-guidelines/zh-hant/",
+      "sourceCommit": "422e4d3"
     }
   ]
 }
