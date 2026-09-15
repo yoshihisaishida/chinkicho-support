@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "yoshihisaishida/chinkicho",
-  "sourceCommit": "e82c9966dea08227c96140bc7876f5ed3c1fe808",
+  "sourceCommit": "f79ac499",
   "documents": [
     {
       "document": "terms",
       "locale": "ja",
-      "sourcePath": "docs/terms-chinkicho-ja-v1.md",
-      "sourceSha256": "390ca3b619b3a28f984233cc48d0661183bb6546b4bc26bffc146aa0c90936f8",
+      "sourcePath": "docs/terms-chinkicho-ja-v2.md",
+      "sourceSha256": "0c4db0728dd6f257b303969dbd30bb5234dc397d4b9d4eee5c0ec59eff769352",
       "publicPath": "/terms/",
-      "sourceCommit": "422e4d3"
+      "sourceCommit": "f79ac499"
     },
     {
       "document": "terms",
       "locale": "en",
-      "sourcePath": "docs/terms-chinkicho-en-v1.md",
-      "sourceSha256": "d2483e37c4a9214a10ad25b1f1623e0430ec2b087c4f07306cbe5389a1a659dd",
+      "sourcePath": "docs/terms-chinkicho-en-v2.md",
+      "sourceSha256": "4949761f30ebb40579feae6e6825a6fd3fc4b3151a3a5be99adf9b53d5305299",
       "publicPath": "/terms/en/",
-      "sourceCommit": "422e4d3"
+      "sourceCommit": "f79ac499"
     },
     {
       "document": "terms",
       "locale": "zh-Hans",
-      "sourcePath": "docs/terms-chinkicho-zh-hans-v1.md",
-      "sourceSha256": "154fb471ccdc28debddb4dc94eb94cf0812f98430e36f632749f15199109accc",
+      "sourcePath": "docs/terms-chinkicho-zh-hans-v2.md",
+      "sourceSha256": "a6815a9b580ba767863b91a86b69cc16248f2cf69d239ca5a1e0c00c3908cb97",
       "publicPath": "/terms/zh-hans/",
-      "sourceCommit": "422e4d3"
+      "sourceCommit": "f79ac499"
     },
     {
       "document": "terms",
       "locale": "zh-Hant",
-      "sourcePath": "docs/terms-chinkicho-zh-hant-v1.md",
-      "sourceSha256": "688f95e3409153b3af413acbe368dd0a4b8554a84b10d56589fb0d7bca9cc3bb",
+      "sourcePath": "docs/terms-chinkicho-zh-hant-v2.md",
+      "sourceSha256": "7a0c5045358c00651707dd4116bae091ace5991f462a0e359152df13fa69dec6",
       "publicPath": "/terms/zh-hant/",
-      "sourceCommit": "422e4d3"
+      "sourceCommit": "f79ac499"
     },
     {
       "document": "privacy",
