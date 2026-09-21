@@ -38,34 +38,34 @@
     {
       "document": "privacy",
       "locale": "ja",
-      "sourcePath": "docs/privacy-chinkicho-ja-v2.md",
-      "sourceSha256": "190367771400e0b20f5015b460ada0e1a76f8b5e181bbf4895ec4fa5d54f4710",
+      "sourcePath": "docs/privacy-chinkicho-ja-v3.md",
+      "sourceSha256": "7be54b07be88588c629ee0c66c760811b550d48ad4fe715a20481b8de361c988",
       "publicPath": "/privacy/",
-      "sourceCommit": "e82c9966dea08227c96140bc7876f5ed3c1fe808"
+      "sourceCommit": "28162a829c80964a6c1bbec2f7f86cafa1df0dfc"
     },
     {
       "document": "privacy",
       "locale": "en",
-      "sourcePath": "docs/privacy-chinkicho-en-v2.md",
-      "sourceSha256": "26715a68512c08dcd87d5477ebea8cda850d4346bda2b43fd2a63d6fa2640208",
+      "sourcePath": "docs/privacy-chinkicho-en-v3.md",
+      "sourceSha256": "5bc707ed8fb617f709dda8ffa6df9b4a413dfa65576a72a93d1bec980028c75f",
       "publicPath": "/privacy/en/",
-      "sourceCommit": "e82c9966dea08227c96140bc7876f5ed3c1fe808"
+      "sourceCommit": "28162a829c80964a6c1bbec2f7f86cafa1df0dfc"
     },
     {
       "document": "privacy",
       "locale": "zh-Hans",
-      "sourcePath": "docs/privacy-chinkicho-zh-hans-v2.md",
-      "sourceSha256": "0cdcea6c56db429a1697f362414bb92391252fb9b51949ad231e6ec8dc10eca3",
+      "sourcePath": "docs/privacy-chinkicho-zh-hans-v3.md",
+      "sourceSha256": "5a3f14ad3f5de181653d84342374322baf3419431f227eea500c75cc01a7b7cf",
       "publicPath": "/privacy/zh-hans/",
-      "sourceCommit": "e82c9966dea08227c96140bc7876f5ed3c1fe808"
+      "sourceCommit": "28162a829c80964a6c1bbec2f7f86cafa1df0dfc"
     },
     {
       "document": "privacy",
       "locale": "zh-Hant",
-      "sourcePath": "docs/privacy-chinkicho-zh-hant-v2.md",
-      "sourceSha256": "636038665681336b460417b264e670d12476efae95ea8f81c8b441c0f4698ab8",
+      "sourcePath": "docs/privacy-chinkicho-zh-hant-v3.md",
+      "sourceSha256": "a84dbd4c0763deb8dfac3c54fcb8d2e351530919cd8391c0548e2e44152727b7",
       "publicPath": "/privacy/zh-hant/",
-      "sourceCommit": "e82c9966dea08227c96140bc7876f5ed3c1fe808"
+      "sourceCommit": "28162a829c80964a6c1bbec2f7f86cafa1df0dfc"
     },
     {
       "document": "community-guidelines",
