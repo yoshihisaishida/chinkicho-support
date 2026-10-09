@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "yoshihisaishida/chinkicho",
-  "sourceCommit": "f79ac499",
+  "sourceCommit": "cc946c8a85b3890165085034e6cd81cc0640ca3f",
   "documents": [
     {
       "document": "terms",
@@ -38,34 +38,34 @@
     {
       "document": "privacy",
       "locale": "ja",
-      "sourcePath": "docs/privacy-chinkicho-ja-v3.md",
-      "sourceSha256": "7be54b07be88588c629ee0c66c760811b550d48ad4fe715a20481b8de361c988",
+      "sourcePath": "docs/privacy-chinkicho-ja-v4.md",
+      "sourceSha256": "a95be4e5ea2bce563116d390a81337495f9a63eb5c662488d8c1101c64482ed8",
       "publicPath": "/privacy/",
-      "sourceCommit": "28162a829c80964a6c1bbec2f7f86cafa1df0dfc"
+      "sourceCommit": "cc946c8a85b3890165085034e6cd81cc0640ca3f"
     },
     {
       "document": "privacy",
       "locale": "en",
-      "sourcePath": "docs/privacy-chinkicho-en-v3.md",
-      "sourceSha256": "5bc707ed8fb617f709dda8ffa6df9b4a413dfa65576a72a93d1bec980028c75f",
+      "sourcePath": "docs/privacy-chinkicho-en-v4.md",
+      "sourceSha256": "95bb81a501214cecbdb5131796575c06953e3ec9f50c439384cf559b6049b1da",
       "publicPath": "/privacy/en/",
-      "sourceCommit": "28162a829c80964a6c1bbec2f7f86cafa1df0dfc"
+      "sourceCommit": "cc946c8a85b3890165085034e6cd81cc0640ca3f"
     },
     {
       "document": "privacy",
       "locale": "zh-Hans",
-      "sourcePath": "docs/privacy-chinkicho-zh-hans-v3.md",
-      "sourceSha256": "5a3f14ad3f5de181653d84342374322baf3419431f227eea500c75cc01a7b7cf",
+      "sourcePath": "docs/privacy-chinkicho-zh-hans-v4.md",
+      "sourceSha256": "fe0a931568b7ae48f41428dbc692817a10b67328feb431520cc3c08fbae38120",
       "publicPath": "/privacy/zh-hans/",
-      "sourceCommit": "28162a829c80964a6c1bbec2f7f86cafa1df0dfc"
+      "sourceCommit": "cc946c8a85b3890165085034e6cd81cc0640ca3f"
     },
     {
       "document": "privacy",
       "locale": "zh-Hant",
-      "sourcePath": "docs/privacy-chinkicho-zh-hant-v3.md",
-      "sourceSha256": "a84dbd4c0763deb8dfac3c54fcb8d2e351530919cd8391c0548e2e44152727b7",
+      "sourcePath": "docs/privacy-chinkicho-zh-hant-v4.md",
+      "sourceSha256": "4c867baa4f7c5690f41825ef83c0965a1507231750e8d27a5570fa389c2e1219",
       "publicPath": "/privacy/zh-hant/",
-      "sourceCommit": "28162a829c80964a6c1bbec2f7f86cafa1df0dfc"
+      "sourceCommit": "cc946c8a85b3890165085034e6cd81cc0640ca3f"
     },
     {
       "document": "community-guidelines",
